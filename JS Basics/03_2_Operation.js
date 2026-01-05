@@ -6,6 +6,10 @@ console.log(negValue);
 let str1 = "kishan";
 let str2 = " Thakor";
 
+
+
+
+
 let str3 = str1 + str2;
 console.log(str3);
 
