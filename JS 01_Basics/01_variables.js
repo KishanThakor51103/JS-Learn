@@ -1,3 +1,4 @@
+// You should know this that javascript execution goint in line by line. 
 const accountId = 20221212;
 let accountEmail = "kishan@gmail.com";
 // Prefer not to use var
