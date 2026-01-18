@@ -27,3 +27,15 @@ console.log(Number.MIN_VALUE);
 console.log(Number.MAX_VALUE);
 console.log(Number.MIN_SAFE_INTEGER);
 console.log(Number.MAX_SAFE_INTEGER);
+
+const num1 = 10;
+const num2 = 3;
+
+// Default is float or double
+console.log((num1/num2));
+
+// convert into int
+console.log(parseInt(num1/num2));
+
+console.log((num1/num2).toFixed(2)); // tofixed() return string
+console.log(typeof (num1/num2).toFixed(2)); // type is string
